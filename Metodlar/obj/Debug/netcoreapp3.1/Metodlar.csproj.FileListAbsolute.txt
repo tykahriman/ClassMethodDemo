@@ -1,0 +1,13 @@
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\tahayasin\Desktop\C# Calisma\Metodlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.genruntimeconfig.cache
